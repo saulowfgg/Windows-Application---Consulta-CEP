@@ -1,0 +1,9 @@
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\bin\Debug\LocalizarCep.exe.config
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\bin\Debug\LocalizarCep.exe
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\bin\Debug\LocalizarCep.pdb
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\obj\Debug\LocalizarCep.Form1.resources
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\obj\Debug\LocalizarCep.Properties.Resources.resources
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\obj\Debug\LocalizarCep.csproj.GenerateResource.Cache
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\obj\Debug\LocalizarCep.exe
+C:\Users\Queiroz\Documents\Visual Studio 2008\Projects\LocalizarCep\LocalizarCep\obj\Debug\LocalizarCep.pdb
