@@ -17,6 +17,16 @@ namespace LocalizarCep
             InitializeComponent();
         }
 
+        private void Form1_Load(object sender, EventArgs e)
+        {
+            txtCEP.Focus();
+            
+            txtEndereco.Enabled = false;
+            txtBairro.Enabled = false;
+            txtCidade.Enabled = false;
+            txtUF.Enabled = false;
+        }
+
         private void picLocalizar_Click(object sender, EventArgs e)
         {
             
